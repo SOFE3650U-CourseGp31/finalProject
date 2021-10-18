@@ -1,15 +1,37 @@
-# SOFE3650 | finalProject Proposal
+# SOFE3650 | finalProject Proposal 
 ## Project Title: Airline Reservation System
-Group number: Group 31
-
 
 ### Group Members
-|   Name    |  Student ID  |
-|:----------|:-------------|
-|Caguimbal, Lorenzo|100555976|
-|Casaclang, Roniel|100755336|
-|Olagunju, Charles|100749818|
-|Osuki, Osasogie|100748837|
+
+<table>
+<thead>
+  <caption>CourseGp31 | Group Members</caption>
+<tbody>
+<tr align = "center" style="font-weight: bold;">
+    <th>Last Name</th>
+    <th>First Name</th>
+    <th>Student ID</th>
+</tr>
+<tr valign="top">
+    <td>Caguimbal</td>
+    <td>Lorenzo</td>
+    <td>100555976</td>
+</tr>
+<tr valign="top">
+    <td>Casaclang</td>
+    <td>Roniel</td>
+    <td>100755336</td>
+</tr>
+<tr valign="top">
+    <td>Olagunju</td>
+    <td>Charles</td>
+    <td>100749818</td>
+</tr>
+<tr valign="top">
+    <td>Osuki</td>
+    <td>Osasogie</td>
+    <td>100748837</td>
+</tr>
 
 
 ### Functional Requirements:
