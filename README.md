@@ -1,5 +1,5 @@
-# SOFE3650 | finalProject Proposal 
-## Project Title: Airline Reservation System
+# Project Title: Airline Reservation System
+### SOFE3650 | finalProject Proposal 
 
 ### CourseGp31 | Group Members
 |Last Name|First Name|StudentID|
