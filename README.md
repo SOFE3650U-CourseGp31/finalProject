@@ -1,5 +1,5 @@
 # Project Title: Airline Reservation System
-### SOFE3650 | finalProject Proposal 
+### SOFE3650 - finalProject Proposal 
 
 ### CourseGp31 | Group Members
 |Last Name|First Name|StudentID|
@@ -25,8 +25,6 @@
 * Calculate and display the airline charges,
 * Record available and booked airlines,
 * Allow users to filter airlines when searching,
-
-
 
 ### Non-Functional Requirements:
 * Accessibility: The website and user interface should be convenient for the users to comprehend, allowing them to navigate and access the website easily.
