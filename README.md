@@ -45,7 +45,7 @@
 | UC-4: Associate booking with an account | The airline server links the user account to their reservations based on the unique IDs that are recorded in the database.     |
 | UC-5: Generate a unique confirmation number | A unique confirmation is generated upon confirmation which will be stored in the database through the airline server.      |
 | UC-6: Change and modify reservations | A user cancels their reservation. Changes made will be recorded in the database.       |
-| UC-7: Display and change records of guests | A user displays and changes the number of passengers.      |
+| UC-7: Display and change records of guests | A user displays and changes the number of passengers. Changes made will be sent into the database through the airline server.    |
 | UC-8: Limit every account to a single user | are neat      |
 | UC-9: Accept date and time | are neat      |
 | UC-10: Confirm booking | are neat      |
