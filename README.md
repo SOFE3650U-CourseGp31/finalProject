@@ -41,7 +41,19 @@
 | ------------- |:-------------:|
 | UC-1: Login     | right-aligned |
 | UC-2: Record Reservation      | centered      |
-| zebra stripes | are neat      |
+| UC-3: Record customer details | are neat      |
+| UC-4: Associate booking with an account | are neat      |
+| UC-5: Generate a unique confirmation number | are neat      |
+| UC-6: Change and modify reservations | are neat      |
+| UC-7: Display and change records of guests | are neat      |
+| UC-8: Limit every account to a single user | are neat      |
+| UC-9: Accept date and time | are neat      |
+| UC-10: Confirm booking | are neat      |
+| UC-11: Allow users to search | are neat      |
+| UC-12: Calculate and display airline chargers | are neat      |
+| UC-13: Record available and booked airlines | are neat      |
+| UC-14: Allow users to filter airlines when searching | are neat      |
+
 
 
 
