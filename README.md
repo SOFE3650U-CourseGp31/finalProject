@@ -34,22 +34,22 @@
 
 
 ### Use Case Model:
-![alt text](/projectDeliverables2/useCaseModel.png "Use Code Model")
+![alt text](projectDeliverables2/useCaseModel.png "Use Code Model")
 
 | Use Case      | Description  | 
 | ------------- |:-------------|
-| UC-1: Login     | A user logs into the system through a login/password screen. If the login is successful, the user is presented with various options under his account. |
+| UC-1: Login     | A user logs into the system through a login/password screen. Airline server tries to access user information from the database based on the input in the login/password screen. |
 | UC-2: Record Reservation      | A user makes a flight reservation, selecting the times, dates, passenger seats, travel class, destination and type of flight ticket. These data will be stored in the database through the airline server.    |
 | UC-3: Record customer details | A user enters his/her personal information such as first name, last name, passwords, etc.. which will be stored in the database through the airline server.     |
 | UC-4: Associate booking with an account | The airline server links the user account to their reservations based on the unique IDs that are recorded in the database.     |
 | UC-5: Generate a unique confirmation number | A unique confirmation is generated upon confirmation which will be stored in the database through the airline server.      |
-| UC-6: Change and modify reservations | A user cancels their reservation. Changes made will be recorded in the database.       |
-| UC-7: Display and change records of guests | A user displays and changes the number of passengers. Changes made will be sent into the database through the airline server.    |
+| UC-6: Change and modify reservations | A user cancels their reservation. Any reservation changes in their account will be recorded in the database.       |
+| UC-7: Display and change records of guests | A user displays and changes the number of passengers. Any changes made will be sent into the database through the airline server.    |
 | UC-8: Limit every account to a single user | An administrator limits every account to a single user based on the registered email.      |
-| UC-9: Accept date and time | A user selects date and time from the reservation page.    |
+| UC-9: Accept date and time | A user selects date and time in the reservation page.    |
 | UC-10: Confirm booking | A user confirms the booking after making the necessary selections from the reservation page.    |
-| UC-11: Allow users to search | A user searches for a destination or airline in a search bar. Calls the airline server to obtain data from the database.     |
-| UC-12: Calculate and display airline charges |  A user displays and calculates the price after making the reservation. Prices vary depending on the selections made.     |
+| UC-11: Allow users to search | A user searches for a destination or an airline in their respective search bar. Calls the airline server to retrieve those information from the database.     |
+| UC-12: Calculate and display airline charges |  A user displays and calculates the price after making a reservation. Prices vary depending on the selections made.     |
 | UC-13: Record available and booked airlines | Airline server records booked passenger seats and sends it to the database. This record will be used to determine whether the airline has reached its maximum capacity.      |
 | UC-14: Allow users to filter airlines when searching | A user selects various filters to narrow down search results for specific or available airlines.      |
 
