@@ -35,7 +35,7 @@
 
 
 ### Use Case Model:
-![alt text](https://raw.githubusercontent.com/SOFE3650U-CourseGp31/finalProject/master/Airline%20Reservation%20System%20Use%20Case%20700.png "Use Code Model")
+![alt text](https://raw.githubusercontent.com/SOFE3650U-CourseGp31/finalProject/master/Airline%20Reservation%20System%20Use%20Case.png "Use Code Model")
 
 
 
