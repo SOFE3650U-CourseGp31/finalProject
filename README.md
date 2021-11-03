@@ -39,8 +39,8 @@
 
 | Use Case      | Descriptions  | 
 | ------------- |:-------------:|
-| UC1      | right-aligned |
-| col 2 is      | centered      |
+| UC-1: Login     | right-aligned |
+| UC-2: Record Reservation      | centered      |
 | zebra stripes | are neat      |
 
 
