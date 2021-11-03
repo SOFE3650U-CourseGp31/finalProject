@@ -37,6 +37,12 @@
 ### Use Case Model:
 ![alt text](https://github.com/SOFE3650U-CourseGp31/finalProject/blob/master/Use%20Case%20Model.png?raw=true "Use Code Model")
 
+| Use Case      | Descriptions  | 
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
 
 
 
