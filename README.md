@@ -50,7 +50,7 @@
 | UC-9: Accept date and time | A user selects date and time from the reservation page.    |
 | UC-10: Confirm booking | A user confirms the booking after making the necessary selections from the reservation page.    |
 | UC-11: Allow users to search | A user searches for a destination or airline in a search bar. Calls the airline server to obtain data from the database.     |
-| UC-12: Calculate and display airline chargers |  A user displays and calculates the price after making the reservation. Prices vary depending on the selections made.     |
+| UC-12: Calculate and display airline charges |  A user displays and calculates the price after making the reservation. Prices vary depending on the selections made.     |
 | UC-13: Record available and booked airlines | Airline server records booked passenger seats and sends it to the database. This record will be used to determine whether the airline has reached its maximum capacity.      |
 | UC-14: Allow users to filter airlines when searching | A user selects various filters to narrow down search results for specific or available airlines.      |
 
