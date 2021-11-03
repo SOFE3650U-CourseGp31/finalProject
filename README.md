@@ -38,7 +38,7 @@
 ![alt text](https://github.com/SOFE3650U-CourseGp31/finalProject/blob/master/Use%20Case%20Model.png?raw=true "Use Code Model")
 
 | Use Case      | Description  | 
-| ------------- |:-------------:|
+| ------------- |:-------------|
 | UC-1: Login     | A user log ins to the system through a login/password screen. If the login is successful, the user is presented with various options under his profile. |
 | UC-2: Record Reservation      | centered      |
 | UC-3: Record customer details | are neat      |
