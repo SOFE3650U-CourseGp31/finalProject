@@ -1,5 +1,5 @@
 # Project Title: Airline Reservation System
-### [SOFE3650 - finalProject Proposal](projectProposal.pdf)
+![alt text](projectDeliverables1\projectProposal.pdf "Use Code Model")
 
 ### CourseGp31 | Group Members
 |Last Name|First Name|StudentID|
@@ -35,7 +35,7 @@
 
 
 ### Use Case Model:
-![alt text](https://github.com/SOFE3650U-CourseGp31/finalProject/blob/master/Use%20Case%20Model.png?raw=true "Use Code Model")
+![alt text](projectDeliverables2\useCaseModel.png "Use Code Model")
 
 | Use Case      | Description  | 
 | ------------- |:-------------|
@@ -57,9 +57,15 @@
 ### Quality Attributes:
 
 ### System Constraints:
-
-
-
-
-
-
+|ID|Constraint|
+|:---|:---|
+|CON-1| |
+|CON-2| |
+|CON-3| |
+|CON-4| |
+|CON-5| |
+|CON-6| |
+|CON-7| |
+|CON-8| |
+|CON-9| |
+|CON-10| |
