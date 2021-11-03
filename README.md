@@ -35,9 +35,7 @@
 
 
 ### Use Case Model:
-<p ="center">
 ![alt text](https://github.com/SOFE3650U-CourseGp31/finalProject/blob/master/Use%20Case%20Model.png?raw=true "Use Code Model")
-</p>
 
 | Use Case      | Descriptions  | 
 | ------------- |:-------------:|
