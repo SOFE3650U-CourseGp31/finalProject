@@ -1,5 +1,6 @@
 # Project Title: Airline Reservation System
 <embed src="/projectDeliverables1/projectProposal.pdf" type="application/pdf">
+<embed src="/projectDeliverables1/projectProposal.pdf" type="application/pdf">
 
 ### CourseGp31 | Group Members
 |Last Name|First Name|StudentID|
