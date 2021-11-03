@@ -46,13 +46,13 @@
 | UC-5: Generate a unique confirmation number | A unique confirmation is generated upon confirmation which will be stored in the database through the airline server.      |
 | UC-6: Change and modify reservations | A user cancels their reservation. Changes made will be recorded in the database.       |
 | UC-7: Display and change records of guests | A user displays and changes the number of passengers. Changes made will be sent into the database through the airline server.    |
-| UC-8: Limit every account to a single user | are neat      |
-| UC-9: Accept date and time | are neat      |
-| UC-10: Confirm booking | are neat      |
-| UC-11: Allow users to search | are neat      |
-| UC-12: Calculate and display airline chargers | are neat      |
-| UC-13: Record available and booked airlines | are neat      |
-| UC-14: Allow users to filter airlines when searching | are neat      |
+| UC-8: Limit every account to a single user | An administrator limits every account to a single user based on the registered email.      |
+| UC-9: Accept date and time | A user selects date and time from the reservation page.    |
+| UC-10: Confirm booking | A user confirms the booking after making the necessary selections from the reservation page.    |
+| UC-11: Allow users to search | A user searches for a destination or airline in a search bar. Calls the airline server to obtain data from the database.     |
+| UC-12: Calculate and display airline chargers |  A user displays and calculates the price after making the reservation. Prices vary depending on the selections made.     |
+| UC-13: Record available and booked airlines | Airline server records booked passenger seats and sends it to the database. This record will be used to determine whether the airline has reached its maximum capacity.      |
+| UC-14: Allow users to filter airlines when searching | A user selects various filters to narrow down search results for specific or available airlines.      |
 
 ### Quality Attributes:
 
