@@ -34,4 +34,10 @@
 * Availability: The website should be available for the user to see available flights regardless of the time.
 
 
+### Use Case Model:
+![alt text](https://raw.githubusercontent.com/SOFE3650U-CourseGp31/finalProject/master/Airline%20Reservation%20System%20Use%20Case.png "Use Code Model")
+
+
+
+
 
