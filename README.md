@@ -39,7 +39,7 @@ Scope: The reservation system will be presented in a website form that is straig
 
 
 ### Use Case Model:
-![alt text](https://github.com/SOFE3650U-CourseGp31/finalProject/blob/master/projectDeliverables2/Use%20Case%20Model.png?raw=true "Use Code Model")
+![alt text](https://github.com/SOFE3650U-CourseGp31/finalProject/blob/master/projectDeliverables2/Use%20Case%20Model.png "Use Code Model")
 
 | Use Case      | Description  | 
 | ------------- |:-------------|
