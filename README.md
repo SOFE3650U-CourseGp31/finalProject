@@ -40,8 +40,8 @@
 | Use Case      | Description  | 
 | ------------- |:-------------|
 | UC-1: Login     | A user logs into the system through a login/password screen. If the login is successful, the user is presented with various options under his account. |
-| UC-2: Record Reservation      | A user makes a flight reservation, selecting the times, dates, passenger seats, travel class, destination and type of flight ticket. These data will be stored in the database.    |
-| UC-3: Record customer details | A user enters his/her personal information such as first name, last name, passwords, etc.. which will be stored in the database.     |
+| UC-2: Record Reservation      | A user makes a flight reservation, selecting the times, dates, passenger seats, travel class, destination and type of flight ticket. These data will be stored in the database through the airline server.    |
+| UC-3: Record customer details | A user enters his/her personal information such as first name, last name, passwords, etc.. which will be stored in the database through the airline server.     |
 | UC-4: Associate booking with an account | are neat      |
 | UC-5: Generate a unique confirmation number | are neat      |
 | UC-6: Change and modify reservations | are neat      |
