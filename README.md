@@ -46,7 +46,7 @@
 | UC-3: Record customer details | A user enters his/her personal information such as first name, last name, passwords, etc.. which will be stored in the database through the airline server.     |
 | UC-4: Associate booking with an account | The airline server links the user account to their reservations based on the unique IDs that are recorded in the database.     |
 | UC-5: Generate a unique confirmation number | A unique confirmation is generated upon confirmation which will be stored in the database through the airline server.      |
-| UC-6: Change and modify reservations | A user cancels their reservation and those changes in their account will be recorded in the database.       |
+| UC-6: Change and modify reservations | A user cancels their reservation. Any reservation changes in their account will be recorded in the database.       |
 | UC-7: Display and change records of guests | A user displays and changes the number of passengers. Any changes made will be sent into the database through the airline server.    |
 | UC-8: Limit every account to a single user | An administrator limits every account to a single user based on the registered email.      |
 | UC-9: Accept date and time | A user selects date and time in the reservation page.    |
