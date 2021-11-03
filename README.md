@@ -37,7 +37,7 @@
 
 
 ### Use Case Model:
-![alt text](/projectDeliverables2/useCaseModel.png "Use Code Model")
+![alt text](projectDeliverables2/useCaseModel.png "Use Code Model")
 
 | Use Case      | Description  | 
 | ------------- |:-------------|
