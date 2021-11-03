@@ -1,5 +1,5 @@
 # Project Title: Airline Reservation System
-![alt text](projectDeliverables1\projectProposal.pdf "Use Code Model")
+![alt text](/projectDeliverables1/projectProposal.pdf "Use Code Model")
 
 ### CourseGp31 | Group Members
 |Last Name|First Name|StudentID|
@@ -35,7 +35,7 @@
 
 
 ### Use Case Model:
-![alt text](projectDeliverables2\useCaseModel.png "Use Code Model")
+![alt text](/projectDeliverables2/useCaseModel.png "Use Code Model")
 
 | Use Case      | Description  | 
 | ------------- |:-------------|
