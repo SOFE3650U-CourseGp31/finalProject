@@ -1,7 +1,9 @@
 # Project Title: Airline Reservation System
-<embed src="/projectDeliverables1/projectProposal.pdf" type="application/pdf">
-<object data="/projectDeliverables1/projectProposal.pdf" type="application/pdf" width="100%"> 
-</object>
+
+### Project Description:
+Vision Statement: To create a user friendly flight reservation website that will acclimate every type of user including novice users.
+
+Scope: The reservation system will be presented in a website form that is straightforward and easily navigated. In doing so will allow customers to book a flight within minutes. The website needs to be presentable and pleasing on the eye in order to attract individuals looking to fly on vacation, businness, or personal reasons.
 
 ### CourseGp31 | Group Members
 |Last Name|First Name|StudentID|
@@ -41,7 +43,7 @@
 
 | Use Case      | Description  | 
 | ------------- |:-------------|
-| UC-1: Login     | A user logs into the system through a login/password screen. If the login is successful, the user is presented with various options under his account. |
+| UC-1: Login     | A user logs into the system through a login/password screen. Airline server tries to access user information from the database based on the input in the login/password screen. |
 | UC-2: Record Reservation      | A user makes a flight reservation, selecting the times, dates, passenger seats, travel class, destination and type of flight ticket. These data will be stored in the database through the airline server.    |
 | UC-3: Record customer details | A user enters his/her personal information such as first name, last name, passwords, etc.. which will be stored in the database through the airline server.     |
 | UC-4: Associate booking with an account | The airline server links the user account to their reservations based on the unique IDs that are recorded in the database.     |
@@ -61,13 +63,9 @@
 ### System Constraints:
 |ID|Constraint|
 |:---|:---|
-|CON-1| |
-|CON-2| |
-|CON-3| |
-|CON-4| |
-|CON-5| |
-|CON-6| |
-|CON-7| |
-|CON-8| |
-|CON-9| |
-|CON-10| |
+|CON-1| Accommodate for multiple users must be able to book a reservation / use the system simultaneously, automatically storing each sessions in the database|
+|CON-2| Compatibility with desktop operating system (Windows, MacOS, Linux) |
+|CON-3| Future support for mobile operating system (iOS, Android) |
+|CON-4| System must respond quickly to request of information from database / servers. (transitions between forms, filtering of available flights, etc.) |
+|CON-5| Network connections between user and servers should be consistent and reliable |
+|CON-6| System must always be up to date with flight details (available flights, # of available seats, time of arrival/departure, etc.)
