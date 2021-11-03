@@ -58,11 +58,11 @@
 ### System Constraints:
 |ID|Constraint|
 |:---|:---|
-|CON-1| |
-|CON-2| |
-|CON-3| |
-|CON-4| |
-|CON-5| |
+|CON-1| Accommodate for multiple users must be able to book a reservation / use the system simultaneously, automatically storing each sessions in the database|
+|CON-2| Compatibility with desktop operating system (Windows, MacOS, Linux) |
+|CON-3| Future support for mobile operating system (iOS, Android) |
+|CON-4| System must respond quickly to request of information from database / servers. (transitions between forms, filtering of available flights, etc.) |
+|CON-5| Network connections between user and servers should be consistent and reliable |
 |CON-6| |
 |CON-7| |
 |CON-8| |
