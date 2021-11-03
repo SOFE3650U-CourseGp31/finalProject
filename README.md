@@ -39,7 +39,7 @@
 
 | Use Case      | Descriptions  | 
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
+| UC1      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
 
