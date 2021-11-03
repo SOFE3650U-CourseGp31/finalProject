@@ -49,7 +49,7 @@
 | UC-6: Change and modify reservations | A user cancels their reservation. Changes made will be recorded in the database.       |
 | UC-7: Display and change records of guests | A user displays and changes the number of passengers. Changes made will be sent into the database through the airline server.    |
 | UC-8: Limit every account to a single user | An administrator limits every account to a single user based on the registered email.      |
-| UC-9: Accept date and time | A user selects date and time from the reservation page.    |
+| UC-9: Accept date and time | A user selects date and time in the reservation page.    |
 | UC-10: Confirm booking | A user confirms the booking after making the necessary selections from the reservation page.    |
 | UC-11: Allow users to search | A user searches for a destination or an airline in their respective search bar. Calls the airline server to retrieve those information from the database.     |
 | UC-12: Calculate and display airline charges |  A user displays and calculates the price after making the reservation. Prices vary depending on the selections made.     |
