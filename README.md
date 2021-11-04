@@ -1,4 +1,11 @@
-# Project Title: Airline Reservation System
+# SOFE3650U-CourseGp31 - Project Title: Airline Reservation System
+### Table of Contents
+1) [Project Description](###Project-Description)
+2) [Group Members](###CourseGp31-|-Group-Members)
+3) [Functional & Non-Functional Requirements](###Functional-&-Non-Functional-Requirements)
+4) [Use Case Model](###Use-Case-Model)
+5) [Quality Attributes](###Quality-Attributes)
+6) [System Constraints](###System-Constraints)
 
 ### Project Description:
 Vision Statement: To create a user friendly flight reservation website that will acclimate every type of user including novice users.
@@ -13,30 +20,24 @@ Scope: The reservation system will be presented in a website form that is straig
 |Olagunju |Charles   |100749818|
 |Osuki    |Osasogie  |100748837|
 
-### Functional Requirements:
-* Record reservation, 
-* Record customer details(first and last name, phone number, email address),
-* Associate booking with an account,
-* Generate unique confirmation number,
-* Record airline and seat number, 
-* Cancel bookings,
-* Change and modify reservations, 
-* Display and change records of guests, 
-* Limit every account to a single user, 
-* Accept date and time to check availability of that particular date and time, 
-* Send out booking confirmation to the specified contact detail, 
-* Allow users to search and find the most relevant booking options (i.e first class, economy or coach class), 
-* Calculate and display the airline charges,
-* Record available and booked airlines,
-* Allow users to filter airlines when searching,
-
-### Non-Functional Requirements:
-* Accessibility: The website and user interface should be convenient for the users to comprehend, allowing them to navigate and access the website easily.
-* Security: The website should be secured and users are able to have their privacy protected from other parties.
-* Compatibility: In this sense, regardless of the system or device the customer is using the website should still retain its functionality.
-* Performance: Website should be fully optimized to enable the user to not have any delays or crashes while on the Reservation website.
-* Availability: The website should be available for the user to see available flights regardless of the time.
-
+### Functional & Non-Functional Requirements:
+|ID|Functional Requirements|ID|Non-Functional Requirements|
+|:---:|:---|:---:|:---|
+|RQ-01|Record reservation|RQ-16|Accessibility: The website and user interface should be convenient for the users to comprehend, allowing them to navigate and access the website easily.|
+|RQ-02|Record customer details(first and last name, phone number, email address)|RQ-17|Security: The website should be secured and users are able to have their privacy protected from other parties.|
+|RQ-03|Associate booking with an account|RQ-18|Compatibility: In this sense, regardless of the system or device the customer is using the website should still retain its functionality.
+|RQ-04|Generate unique confirmation number|RQ-19|Performance: Website should be fully optimized to enable the user to not have any delays or crashes while on the Reservation website.|
+|RQ-05|Record airline and seat number|RQ-20|Availability: The website should be available for the user to see available flights regardless of the time.|
+|RQ-06|Cancel bookings|
+|RQ-07|Change and modify reservations|
+|RQ-08|Display and change records of guests|
+|RQ-09|Limit every account to a single user|
+|RQ-10|Accept date and time to check availability of that particular date and time|
+|RQ-11|Send out booking confirmation to the specified contact detail|
+|RQ-12|Allow users to search and find the most relevant booking options (i.e first class, economy or coach class)|
+|RQ-13|Calculate and display the airline charges|
+|RQ-14|Record available and booked airlines|
+|RQ-15|Allow users to filter airlines when searching|
 
 ### Use Case Model:
 ![alt text](projectDeliverables2/useCaseModel.png "Use Code Model")
