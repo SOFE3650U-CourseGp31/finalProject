@@ -54,6 +54,11 @@ Scope: The reservation system will be presented in a website form that is straig
 
 
 ### Quality Attributes:
+Accessibility
+Security
+Compatibility
+Performance
+Availability
 
 ### System Constraints:
 |ID|Constraint|
