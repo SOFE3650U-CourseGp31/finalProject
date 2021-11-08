@@ -54,11 +54,13 @@ Scope: The reservation system will be presented in a website form that is straig
 
 
 ### Quality Attributes:
-1. Accessibility
-2. Security
-3. Compatibility
-4. Availability
-5. Performance
+| ID | Quality Attribute | Scenario | Associated Use Case
+|:---:|:---|:---:|:---|
+| QA-1 | Accessibility   |          | UC-1, UC-3, UC-4, UC-6 & UC-7
+| QA-2 | Security        |          | UC-5
+| QA-3 | Compatibility   |          | UC
+| QA-4 | Availability    |          | UC-2 & UC-
+| QA-5 | Performance     |           | ALL
 
 ### System Constraints:
 |ID|Constraint|
