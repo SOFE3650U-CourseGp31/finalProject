@@ -56,7 +56,7 @@ Scope: The reservation system will be presented in a website form that is straig
 ### Quality Attributes:
 | ID | Quality Attribute | Scenario | Associated Use Case
 |:---|:---|:---|:---|
-| QA-1 | Accessibility   | The website is user-friendly and accessible. The UI allows any user to navigate the website and quickly make reservations easily. | UC-1, UC-3, UC-4, UC-6 & UC-7
+| QA-1 | Accessibility   | The website is user-friendly and accessible. The UI allows any user to navigate the website easily and quickly make reservations. | UC-1, UC-3, UC-4, UC-6 & UC-7
 | QA-2 | Security        | User logs into the system and makes changes to their account. The system has all changes documented and timed and also available for the user to see.| UC-5
 | QA-3 | Compatibility   | User decides to use an Android device to make flight reservations and it is still functional as it is compatible with the device.| ALL
 | QA-4 | Availability    | There is downtime in the regular operation of the system. The system is backed up and running in less than a minute.      | ALL
