@@ -22,7 +22,7 @@ Scope: The reservation system will be presented in a website form that is straig
 
 ### Functional & Non-Functional Requirements:
 |ID|Functional Requirements|ID|Non-Functional Requirements|
-|:---:|:---|:---:|:---|
+|:---|:---|:---|:---|
 |RQ-01|Record reservation|RQ-16|Accessibility: The website and user interface should be convenient for the users to comprehend, allowing them to navigate and access the website easily.|
 |RQ-02|Record customer details(first and last name, phone number, email address)|RQ-17|Security: The website should be secured and users are able to have their privacy protected from other parties.|
 |RQ-03|Associate booking with an account|RQ-18|Compatibility: In this sense, regardless of the system or device the customer is using the website should still retain its functionality.
@@ -43,7 +43,7 @@ Scope: The reservation system will be presented in a website form that is straig
 ![alt text](https://github.com/SOFE3650U-CourseGp31/finalProject/blob/master/projectDeliverables2/Use%20Case%20Model.png "Use Code Model")
 
 | Use Case      | Description  | 
-| ------------- |:-------------|
+| :------------- |:-------------|
 | UC-1: Sign-Up / Login     | A user or administrator registers/logs into the system through the sign-up/login screen. |
 | UC-2: Make a reservation      | A user makes a flight reservation, selecting the times, dates, passenger seats, travel class, destination and type of flight ticket. |
 | UC-3: Edit a reservation | A user edits a reservation under their account. An admin edits a user's reservation.       |
@@ -55,7 +55,7 @@ Scope: The reservation system will be presented in a website form that is straig
 
 ### Quality Attributes:
 | ID | Quality Attribute | Scenario | Associated Use Case
-|:---:|:---|:---:|:---|
+|:---|:---|:---|:---|
 | QA-1 | Accessibility   | User has is mot tech inclined but the webisite is user-friendly and is able to navigate rather easily. | UC-1, UC-3, UC-4, UC-6 & UC-7
 | QA-2 | Security        | User logs into the system and makes changes to their account. The system has all changes documented and timed and also available for the user to see.| UC-5
 | QA-3 | Compatibility   | User decides a phone is more comfortable booking their flight the system is still functional and adapts to the device.| ALL
