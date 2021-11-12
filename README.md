@@ -76,6 +76,6 @@ Scope: The reservation system will be presented in a website form that is straig
 |ID|Concern|
 |:---|:---|
 |CRN-1| Establishing an overall system structure.|
-|CRN-2| Leverage the team's knowledge about JavaScript Framworks and Databases. |
+|CRN-2| Leverage the team's knowledge about JavaScript Frameworks and Databases. |
 |CRN-3| Allocate work to members of the development team. |
 
