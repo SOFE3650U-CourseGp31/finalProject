@@ -71,3 +71,11 @@ Scope: The reservation system will be presented in a website form that is straig
 |CON-4| System must respond quickly to request of information from database / servers. (transitions between forms, filtering of available flights, etc.) |
 |CON-5| Network connections between user and servers should be consistent and reliable |
 |CON-6| System must always be up to date with flight details (available flights, # of available seats, time of arrival/departure, etc.)
+
+### Architecural Concerns:
+|ID|Concern|
+|:---|:---|
+|CRN-1| Establishing an overall system structure.|
+|CRN-2| Leverage the team's knowledge about JavaScript Framworks and Databases. |
+|CRN-3| Allocate work to members of the development team. |
+
